@@ -3,7 +3,7 @@ import './styles.css';
 
 const Hero = () => {
     const titles = [
-        'Full Stack Developer      ',
+        'Full Stack Engineer      ',
         'Collaborator      ',
         'Problem Solver      ',
         'Full Time Learner      '
